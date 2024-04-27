@@ -1,0 +1,70 @@
+Exploratory Data Analysis with Pandas and Python
+
+Objective:
+The objective of this project is to provide students with hands-on experience in data analysis using Python's Pandas library. By analyzing a dataset containing information about various laptops, students will learn the process of data cleaning, filtering, grouping, and visualization using Pandas and Matplotlib.
+
+Dataset Description:
+The dataset contains information about laptops, including attributes such as company, laptop type, screen size, resolution, CPU, RAM, memory, GPU, operating system, weight, and price.
+
+Action Plan:
+
+Step 1: Data Loading and Initial Exploration
+
+1. Load the dataset into a Pandas DataFrame.
+2. Perform initial exploration:
+    - Check the first few rows of the dataset.
+    - Check data types and null values.
+    - Get summary statistics for numerical columns.
+
+
+
+Step 2: Data Cleaning
+
+1. Handle missing values:
+    - Drop or fill missing values based on the context of the data.
+2. Clean and standardize data:
+    - Convert data types if necessary (e.g., converting object types to numeric types).
+    - Clean inconsistent or erroneous data entries.
+
+
+
+Step 3: Data Filtering and Selection
+
+1. Filter data based on specific criteria:
+    - Filter laptops based on certain attributes like company, screen size, or operating system.
+    - Select relevant columns for analysis.
+
+
+
+Step 4: Data Grouping and Aggregation
+
+1. Group data based on certain attributes:
+    - Group laptops based on company, laptop type, or operating system.
+2. Perform aggregation functions:
+    - Calculate mean, median, or count within each group.
+
+
+
+Step 6: Data Visualization
+
+1. Plot the findings using Matplotlib:
+    - Create plots such as histograms, scatter plots, or bar charts to visualize the data.
+    - Utilize subplots to show multiple visualizations together ~ 2x2 grid.
+    - Add appropriate labels, titles, and legends to enhance readability.
+
+
+
+Questions we need answered:
+1. What is the average price of laptops based on different companies?
+2. How does the price distribution vary between laptops with SSD and HDD?
+3. Which company has the highest average RAM capacity?
+4. How does the weight of laptops vary across different screen resolutions?
+
+
+
+Project Conclusion:
+
+In conclusion, this project provides students with a comprehensive understanding of data analysis techniques using Pandas and Python. 
+By following the outlined steps and exploring the provided dataset, students will gain practical experience in data manipulation, visualization, and interpretation, which are essential skills for data analysis and decision-making in various fields.
+
+
